@@ -1,0 +1,4 @@
+ls	-1	
+ls -al	2	
+ls *	3	
+./while1	1	
